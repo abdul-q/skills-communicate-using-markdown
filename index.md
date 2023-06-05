@@ -9,3 +9,9 @@
 
 *Commit the changes* \
 ``` git commit -m 'message or description to be added to the commit message' ```
+
+- [x] Intro to GitHub
+- [x] Intro to Markdown
+- [ ] Intro to GitHub Actions
+- [ ] Intro to GitHub WebPages
+- [ ] A review of Pull Request
